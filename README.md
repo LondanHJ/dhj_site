@@ -1,2 +1,2 @@
 # dhj_site
-Daniel Gatsby JS site mad with forty template
+Daniel Gatsby JS site made with forty template
